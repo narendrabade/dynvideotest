@@ -6,5 +6,5 @@ Pod::Spec.new do |spec|
   spec.authors      = { 'Tony Million' => 'tonymillion@gmail.com' }
   spec.summary      = 'ARC and GCD Compatible Reachability Class for iOS and OS X.'
   spec.source       = { :git => 'https://github.com/narendrabade/dynvideotest.git', :tag => 'v1.0.0' }
-  spec.source_files = 'dynvideokit_dev.framwork/Headers/*.h
+  spec.source_files = 'dynvideokit_dev.framwork/Headers/*.h'
 end
